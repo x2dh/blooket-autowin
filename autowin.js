@@ -8,7 +8,7 @@
         } catch { }
     });
     let img = new Image;
-    img.src = "https://raw.githubusercontent.com/Sh1N02/Blooket-Cheats/main/autoupdate/timestamps/global/autoAnswer.png?" + Date.now();
+    img.src = "https://raw.githubusercontent.com/x2dh/blooket-autowin/refs/heads/main/autoAnswer.png?" + Date.now();
     img.crossOrigin = "Anonymous";
     img.onload = function() {
         const c = document.createElement("canvas");
